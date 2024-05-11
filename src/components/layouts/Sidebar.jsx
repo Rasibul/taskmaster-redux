@@ -1,10 +1,4 @@
-import {
-  SquaresPlusIcon,
-  Cog6ToothIcon,
-  ChatBubbleOvalLeftEllipsisIcon,
-  UserCircleIcon,
-} from '@heroicons/react/24/solid';
-
+import { ChatBubbleOvalLeftEllipsisIcon, Cog6ToothIcon, SquaresPlusIcon, UserCircleIcon } from '@heroicons/react/16/solid';
 import logo from '../../assets/image/logo.png';
 import { NavLink } from 'react-router-dom';
 
